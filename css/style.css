@@ -81,11 +81,9 @@ section{
 }
 
 .experience-box{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("../images/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;  
-
-
+    background-position: left;
 }
 
 footer{
